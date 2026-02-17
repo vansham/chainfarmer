@@ -64,3 +64,17 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+
+
+
+
+# 🌾 ChainFarmer
+
+Automate your Base airdrop farming!
+
+## Contract Addresses (Base Mainnet)
+- SwapAutomator: 0xA1018EcB6aDe7423B8701097FdBe782Ec65551B0
+- VanshamToken: 0x122fF798eDacD8B198922d2687AB98938b29650e
+
+## Built on Base 🔵
