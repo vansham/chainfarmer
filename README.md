@@ -72,9 +72,9 @@ $ cast --help
 # 🌾 ChainFarmer
 
 Automate your Base airdrop farming!
-
-## Contract Addresses (Base Mainnet)
+## Deployed Contracts (Base Mainnet)
 - SwapAutomator: 0xA1018EcB6aDe7423B8701097FdBe782Ec65551B0
 - VanshamToken: 0x122fF798eDacD8B198922d2687AB98938b29650e
-
-## Built on Base 🔵
+- VanshamNFT: 0x783f24811401D7dCEC7770bA998b41098D0e9A34
+- VotingContract: 0x5456613Ec283dBfe83fBF4F455Ed1429Cd9Ff878
+- StakingContract: 0x1AeA869f83eDA4f05F3AbeF8c63176bB4729a53e
